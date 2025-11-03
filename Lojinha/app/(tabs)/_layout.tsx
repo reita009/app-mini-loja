@@ -18,7 +18,13 @@ export default function TabLayout(){
                 }}
             />
 
-            <Tabs.Screen
+            
+        </Tabs>
+    );
+}
+
+/*
+<Tabs.Screen
                 name="categories"
                 options={{
                     title:'Categorias',
@@ -40,7 +46,4 @@ export default function TabLayout(){
                     color={color}
                     />
                 }}
-            />
-        </Tabs>
-    );
-}
+            />*/
